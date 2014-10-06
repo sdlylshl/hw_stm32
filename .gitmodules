@@ -1,0 +1,6 @@
+[submodule "Social_Security"]
+	path = Social_Security
+	url = git@github.com:sdlylshl/hw_Social_Security
+[submodule "STM32F107_EVAL"]
+	path = STM32F107_EVAL
+	url = git@github.com:sdlylshl/hw_STM32F107_EVAL
