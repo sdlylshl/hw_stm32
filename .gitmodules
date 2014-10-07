@@ -4,3 +4,6 @@
 [submodule "STM32F107_EVAL"]
 	path = STM32F107_EVAL
 	url = git@github.com:sdlylshl/hw_STM32F107_EVAL
+[submodule "Cabinet"]
+	path = Cabinet
+	url = git@github.com:sdlylshl/Intelligent_cabinet.git
